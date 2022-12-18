@@ -1,0 +1,88 @@
+_protocol,_address,_date,_type,_subject,_body,_toa,_sc_toa,_service_center,_read,_status,_locked,_date_sent,_sub_id,_readable_date,_contact_name
+0,5409159982,1568125525301,1,,Hey Rafid this is Kaden,,,,1,-1,0,1568125521000,2,"Sep 10, 2019 10:25:25 AM",Kaden Whiteknack
+0,5409159982,1568128860168,2,,Hey,,,,1,-1,0,0,2,"Sep 10, 2019 11:21:00 AM",Kaden Whiteknack
+0,5409159982,1569967305841,1,,Hey Rafid I'm having trouble writing the week 5 assignment code for the classes. Could you give me a little help?,,,,1,-1,0,1569967302000,2,"Oct 1, 2019 6:01:45 PM",Kaden Whiteknack
+0,5409159982,1569967343949,1,,That's all I have so far. I was thinking about making another class for the withdrawals and deposits should I do that?,,,,1,-1,0,1569967343000,2,"Oct 1, 2019 6:02:23 PM",Kaden Whiteknack
+0,5409159982,1569970997080,2,,"Ummm, I just created a method of deposit and withdrawal under the account class",,,,1,-1,0,0,2,"Oct 1, 2019 7:03:17 PM",Kaden Whiteknack
+0,5409159982,1569971115283,1,,Okay and you labeled it method or def?,,,,1,-1,0,1569971114000,2,"Oct 1, 2019 7:05:15 PM",Kaden Whiteknack
+0,5409159982,1569971192641,1,,Oh okay gotcha thank you Rafid ,,,,1,-1,0,1569971190000,2,"Oct 1, 2019 7:06:32 PM",Kaden Whiteknack
+0,5409159982,1569971210550,2,,No problem,,,,1,-1,0,0,2,"Oct 1, 2019 7:06:50 PM",Kaden Whiteknack
+0,5409159982,1569971239309,1,,Sorry I wasn't in class today. I was having bad anxiety this morning with the physics test coming up that we have. ,,,,1,-1,0,1569971237000,2,"Oct 1, 2019 7:07:19 PM",Kaden Whiteknack
+0,5409159982,1569971281354,2,,"No worries, it's all good and I hope ur feeling better",,,,1,-1,0,0,2,"Oct 1, 2019 7:08:01 PM",Kaden Whiteknack
+0,5409159982,1569971321528,1,,Thanks man. I'll get over it,,,,1,-1,0,1569971321000,2,"Oct 1, 2019 7:08:41 PM",Kaden Whiteknack
+0,5409159982,1569981040568,1,,What did you put at the end of your first print statement towards the bottom of the picture?,,,,1,-1,0,1569981039000,2,"Oct 1, 2019 9:50:40 PM",Kaden Whiteknack
+0,5409159982,1569981048808,1,,After the deposit,,,,1,-1,0,1569981047000,2,"Oct 1, 2019 9:50:48 PM",Kaden Whiteknack
+0,5409159982,1569982455756,1,,Ahh get.balance makes sense  ,,,,1,-1,0,1569982455000,2,"Oct 1, 2019 10:14:15 PM",Kaden Whiteknack
+0,5409159982,1571098279848,1,,Hey for the coding assignment due tomorrow how did you add stars to your display?,,,,1,-1,0,1571098277000,2,"Oct 14, 2019 8:11:19 PM",Kaden Whiteknack
+0,+15409159982,1571100288000,2,,"I used the ""polygon"" method to do it, but I'm pretty sure you can also use asterisks to represent them with lines",,,,1,-1,0,0,2,"Oct 14, 2019 8:44:48 PM",Kaden Whiteknack
+0,5409159982,1571100677827,1,,Okay thanks,,,,1,-1,0,1571100677000,2,"Oct 14, 2019 8:51:17 PM",Kaden Whiteknack
+0,5409159982,1572289858104,1,,Hey I'm having a little trouble with this weeks coding assignment. Could you send me a picture of your code so I could see where I went wrong with my code?,,,+19132379100,1,-1,0,1572289856000,1,"Oct 28, 2019 3:10:58 PM",Kaden Whiteknack
+0,+15409159982,1572290243833,2,,"I'm not done yet, but I'll text u when I'm done",,,,1,-1,0,0,1,"Oct 28, 2019 3:17:23 PM",Kaden Whiteknack
+0,5409159982,1572290328905,1,,Sounds good 👍,,,+19132379100,1,-1,0,1572290328000,1,"Oct 28, 2019 3:18:48 PM",Kaden Whiteknack
+0,15409159982,1572304565000,2,,"On that program, there are two separate ways, I did it just to double check",,,,1,-1,0,0,1,"Oct 28, 2019 7:16:05 PM",Kaden Whiteknack
+0,5409159982,1572309442969,1,,Gotcha I had an issue with the average but I understand now thank you. ,,,+19132379100,1,-1,0,1572309459000,1,"Oct 28, 2019 8:37:22 PM",Kaden Whiteknack
+0,5409159982,1572309479000,2,,No problem,,,,1,-1,0,0,1,"Oct 28, 2019 8:37:59 PM",Kaden Whiteknack
+0,5409159982,1573519797713,1,,Hey so do you still have the copy of micheals paper that he sent to you?,,,+19132379100,1,-1,0,1573519796000,1,"Nov 11, 2019 7:49:57 PM",Kaden Whiteknack
+0,5409159982,1573519818753,1,,We could just model the rest of our introduction based off of that,,,+19132379100,1,-1,0,1573519817000,1,"Nov 11, 2019 7:50:18 PM",Kaden Whiteknack
+0,5409159982,1573521140000,2,,"Yeah, I'll share it with u",,,,1,-1,0,0,1,"Nov 11, 2019 8:12:20 PM",Kaden Whiteknack
+0,5409159982,1573521218619,1,,Just send it to me through email,,,+19132379100,1,-1,0,1573521218000,1,"Nov 11, 2019 8:13:38 PM",Kaden Whiteknack
+0,5409159982,1573521237916,1,,You could just forward it to kadenwhitenack@gmail.com,,,+19132379100,1,-1,0,1573521238000,1,"Nov 11, 2019 8:13:57 PM",Kaden Whiteknack
+0,5409159982,1573521260000,2,,"Alright, I'll do that",,,,1,-1,0,0,1,"Nov 11, 2019 8:14:20 PM",Kaden Whiteknack
+0,5409159982,1573521274345,1,,👍,,,+19132379100,1,-1,0,1573521274000,1,"Nov 11, 2019 8:14:34 PM",Kaden Whiteknack
+0,5409159982,1573521430000,2,,I just sent it,,,,1,-1,0,0,1,"Nov 11, 2019 8:17:10 PM",Kaden Whiteknack
+0,5409159982,1573521545785,1,,Ok I have to watch my little sisters until my mom gets home but I'll start working on the intro here in 30-45 minutes,,,+19132379100,1,-1,0,1573521545000,1,"Nov 11, 2019 8:19:05 PM",Kaden Whiteknack
+0,5409159982,1573521634000,2,,No problem,,,,1,-1,0,0,1,"Nov 11, 2019 8:20:34 PM",Kaden Whiteknack
+0,5409159982,1573526101920,1,,I can't see anything that I'm typing anymore on the document,,,+19132379100,1,-1,0,1573526101000,1,"Nov 11, 2019 9:35:01 PM",Kaden Whiteknack
+0,5409159982,1573526116125,1,,That's why is just pasted the same statement back to back,,,+19132379100,1,-1,0,1573526116000,1,"Nov 11, 2019 9:35:16 PM",Kaden Whiteknack
+0,5409159982,1573526157000,2,,"Ok, can u see it now?",,,,1,-1,0,0,1,"Nov 11, 2019 9:35:57 PM",Kaden Whiteknack
+0,5409159982,1573526178651,1,,Yes good now,,,+19132379100,1,-1,0,1573526178000,1,"Nov 11, 2019 9:36:18 PM",Kaden Whiteknack
+0,5409159982,1573526199667,1,,I've already cited the sources as well down at the bottom,,,+19132379100,1,-1,0,1573526195000,1,"Nov 11, 2019 9:36:39 PM",Kaden Whiteknack
+0,5409159982,1573526241000,2,,"Cool, thanks, we're nearly finished",,,,1,-1,0,0,1,"Nov 11, 2019 9:37:21 PM",Kaden Whiteknack
+0,5409159982,1573526270560,1,,Getting there,,,+19132379100,1,-1,0,1573526269000,1,"Nov 11, 2019 9:37:50 PM",Kaden Whiteknack
+0,5409159982,1573526322000,2,,"It only has to be 3 pages, right?",,,,1,-1,0,0,1,"Nov 11, 2019 9:38:42 PM",Kaden Whiteknack
+0,5409159982,1573526336782,1,,Yes,,,+19132379100,1,-1,0,1573526336000,1,"Nov 11, 2019 9:38:56 PM",Kaden Whiteknack
+0,5409159982,1573526373168,1,,Do you have a printer at your house or should I just go in early and print out a copy at gov school,,,+19132379100,1,-1,0,1573526372000,1,"Nov 11, 2019 9:39:33 PM",Kaden Whiteknack
+0,5409159982,1573526400000,2,,I have a printer,,,,1,-1,0,0,1,"Nov 11, 2019 9:40:00 PM",Kaden Whiteknack
+0,5409159982,1573526410027,1,,Awesome,,,+19132379100,1,-1,0,1573526409000,1,"Nov 11, 2019 9:40:10 PM",Kaden Whiteknack
+0,5409159982,1573528209409,1,,I don't think it has to be 3 full pages,,,+19132379100,1,-1,0,1573528209000,1,"Nov 11, 2019 10:10:09 PM",Kaden Whiteknack
+0,5409159982,1573528217422,1,,I think 2 and a half would be good,,,+19132379100,1,-1,0,1573528216000,1,"Nov 11, 2019 10:10:17 PM",Kaden Whiteknack
+0,5409159982,1573529679919,1,,I think the intro will be complete once you finish the paragraph you are on. I am done with what I was typing,,,+19132379100,1,-1,0,1573529678000,1,"Nov 11, 2019 10:34:39 PM",Kaden Whiteknack
+0,5409159982,1573529718807,1,,Before you print it out make sure the first page is #2 and not 1,,,+19132379100,1,-1,0,1573529718000,1,"Nov 11, 2019 10:35:18 PM",Kaden Whiteknack
+0,5409159982,1573529761000,2,,"I think we're good, I'm just running the paper through a plagiarism and grammar checker now",,,,1,-1,0,0,1,"Nov 11, 2019 10:36:01 PM",Kaden Whiteknack
+0,5409159982,1573529775935,1,,Sounds good,,,+19132379100,1,-1,0,1573529775000,1,"Nov 11, 2019 10:36:15 PM",Kaden Whiteknack
+0,5409159982,1573530067000,2,,"I checked everything and I fixed the  grammar and the plagiarism report didn't find anything, so I'm going to print, is that ok?",,,,1,-1,0,0,1,"Nov 11, 2019 10:41:07 PM",Kaden Whiteknack
+0,5409159982,1573530142840,1,,Yeah that's fine as long as the first page is labeled #2,,,+19132379100,1,-1,0,1573530141000,1,"Nov 11, 2019 10:42:22 PM",Kaden Whiteknack
+0,5409159982,1573530215000,2,,Do u know if we're allowed to use the year 2016 or do we have to spell it out twenty sixteen,,,,1,-1,0,0,1,"Nov 11, 2019 10:43:35 PM",Kaden Whiteknack
+0,5409159982,1573530248176,1,,I think we can use 2016,,,+19132379100,1,-1,0,1573530247000,1,"Nov 11, 2019 10:44:08 PM",Kaden Whiteknack
+0,5409159982,1573530540000,2,,What about our names?,,,,1,-1,0,0,1,"Nov 11, 2019 10:49:00 PM",Kaden Whiteknack
+0,5409159982,1573530579998,1,,Michael didn't have his name in his so,,,+19132379100,1,-1,0,1573530580000,1,"Nov 11, 2019 10:49:39 PM",Kaden Whiteknack
+0,5409159982,1573530614974,1,,I think we keep our names off of all of the documents the judges see,,,+19132379100,1,-1,0,1573530614000,1,"Nov 11, 2019 10:50:14 PM",Kaden Whiteknack
+0,5409159982,1573530762000,2,,"Cool, everything's printed and ready",,,,1,-1,0,0,1,"Nov 11, 2019 10:52:42 PM",Kaden Whiteknack
+0,5409159982,1573530779000,2,,Great job!,,,,1,-1,0,0,1,"Nov 11, 2019 10:52:59 PM",Kaden Whiteknack
+0,5409159982,1573530783148,1,,Awesome I'll see you tomorrow ,,,+19132379100,1,-1,0,1573530782000,1,"Nov 11, 2019 10:53:03 PM",Kaden Whiteknack
+0,5409159982,1573530790473,1,,Same to you! ,,,+19132379100,1,-1,0,1573530790000,1,"Nov 11, 2019 10:53:10 PM",Kaden Whiteknack
+0,5409159982,1579011454852,1,,😵🔪😵,,,+19132379100,1,-1,0,1579011454000,1,"Jan 14, 2020 9:17:34 AM",Kaden Whiteknack
+0,5409159982,1579618047047,1,,Can I admit something to You. ,,,+19132379100,1,-1,0,1579618046000,1,"Jan 21, 2020 9:47:27 AM",Kaden Whiteknack
+0,5409159982,1579618209095,1,,"The other day when you said I was depressed I think I am don't tell anyone and please don't think of anything of me man cause I'm not suicidal I don't wanna die or anything not there has been one time wehere i 
+Loaded the shotgun and put it to me mouth but I couldn't pull the trigger don't think I'm weird please don't man it's just I've gone through a lot and your. The only person I've ever told this. ",,,+19132379100,1,-1,0,1579618209000,1,"Jan 21, 2020 9:50:09 AM",Kaden Whiteknack
+0,5409159982,1579618220000,2,,I'm really sorry that u went through that,,,,1,-1,0,0,1,"Jan 21, 2020 9:50:20 AM",Kaden Whiteknack
+0,5409159982,1579618238947,1,,Idek wtf was going through my mind I'm sorry I didn't mean to tell you that. ,,,+19132379100,1,-1,0,1579618239000,1,"Jan 21, 2020 9:50:38 AM",Kaden Whiteknack
+0,5409159982,1579618243736,1,,I did but I didn't ,,,+19132379100,1,-1,0,1579618244000,1,"Jan 21, 2020 9:50:43 AM",Kaden Whiteknack
+0,5409159982,1579618267000,2,,I can't even imagine that,,,,1,-1,0,0,1,"Jan 21, 2020 9:51:07 AM",Kaden Whiteknack
+0,5409159982,1579618279669,1,,                       Im Sorry ignore I said that that was stuoid of me to say,,,+19132379100,1,-1,0,1579618280000,1,"Jan 21, 2020 9:51:19 AM",Kaden Whiteknack
+0,5409159982,1579618295443,1,,Do you wanna just go to bed I shouldn't have,,,+19132379100,1,-1,0,1579618296000,1,"Jan 21, 2020 9:51:35 AM",Kaden Whiteknack
+0,5409159982,1579872790000,2,,"Hey Kaden, just wondering if you submitted the procedure or not?",,,,1,-1,0,0,1,"Jan 24, 2020 8:33:10 AM",Kaden Whiteknack
+0,5409159982,1580131977149,1,,Hey are you coming in this morning?,,,+19132379100,1,-1,0,1580131976000,1,"Jan 27, 2020 8:32:57 AM",Kaden Whiteknack
+0,5409159982,1580133651000,2,,I have been really upset the past few days and I cannot stop crying. I am having bad thoughts and feeling depressed/hopeless. ,,,,1,-1,0,0,1,"Jan 27, 2020 9:00:51 AM",Kaden Whiteknack
+0,5409159982,1580133698171,1,,I'm sorry to hear that. It must be very difficult. Would you like to tell me more about what is going on?,,,+19132379100,1,-1,0,1580133696000,1,"Jan 27, 2020 9:01:38 AM",Kaden Whiteknack
+0,5409159982,1580133889000,2,,I was fired unexpectedly from my job last Friday ... my employer would not give me a reason for being let go ... I feel confused and sad. I am scared what will happen financially ... I have a lot of financial obligations. I pay for everything myself and was depending on that job to pay my bills. Also the same day my boyfriend moved to another state. I was already very sad about this so being fired has not helped .....,,,,1,-1,0,0,1,"Jan 27, 2020 9:04:49 AM",Kaden Whiteknack
+0,5409159982,1580133962000,2,,What u doing this evening,,,,1,-1,0,0,1,"Jan 27, 2020 9:06:02 AM",Kaden Whiteknack
+0,5409159982,1580133970480,1,,Working. Hbu?,,,+19132379100,1,-1,0,1580133969000,1,"Jan 27, 2020 9:06:10 AM",Kaden Whiteknack
+0,5409159982,1580133976000,2,,After that,,,,1,-1,0,0,1,"Jan 27, 2020 9:06:16 AM",Kaden Whiteknack
+0,5409159982,1580133997765,1,,Got a big presentation for the county on Wed. Practicing that. HBU?,,,+19132379100,1,-1,0,1580133996000,1,"Jan 27, 2020 9:06:37 AM",Kaden Whiteknack
+0,5409159982,1580134035000,2,,Nothing I actually needed a friend. I'm kinda in a low place right now. ,,,,1,-1,0,0,1,"Jan 27, 2020 9:07:15 AM",Kaden Whiteknack
+0,5409159982,1580134044305,1,,What you need?,,,+19132379100,1,-1,0,1580134043000,1,"Jan 27, 2020 9:07:24 AM",Kaden Whiteknack
+0,5409159982,1580134068000,2,,IDK never mind. I know that was weird,,,,1,-1,0,0,1,"Jan 27, 2020 9:07:48 AM",Kaden Whiteknack
+0,5409159982,1580134800165,1,,I can't do this anymore. I feel so numb. ,,,+19132379100,1,-1,0,1580134798000,1,"Jan 27, 2020 9:20:00 AM",Kaden Whiteknack
+0,5409159982,1580134824000,2,,Hey- let's talk this through. What's going on today?,,,,1,-1,0,0,1,"Jan 27, 2020 9:20:24 AM",Kaden Whiteknack
+0,5409159982,1580134840064,1,,I can't get out of bed. It's getting so hard. ,,,+19132379100,1,-1,0,1580134838000,1,"Jan 27, 2020 9:20:40 AM",Kaden Whiteknack
